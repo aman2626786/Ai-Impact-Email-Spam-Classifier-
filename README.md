@@ -1,7 +1,7 @@
 # 📊 Smart Retail Sales & Customer Intelligence Dashboard
 
 An end-to-end **Data Analytics & Business Intelligence project** built
-using Python and Streamlit.\
+using Python.
 This project analyzes retail sales data to extract actionable insights
 on revenue trends, regional performance, and customer behavior.
 
