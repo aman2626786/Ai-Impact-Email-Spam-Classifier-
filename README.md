@@ -17,7 +17,6 @@ business insights by performing:
 -   Customer Segmentation
 -   Repeat Customer Analysis
 -   Top Customer Revenue Ranking
--   Interactive Dashboard Development
 
 The final output is an interactive **Streamlit dashboard** that enables
 dynamic filtering and real-time visualization.
