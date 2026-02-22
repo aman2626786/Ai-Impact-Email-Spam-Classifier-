@@ -97,10 +97,4 @@ The dataset includes:
 -   Seaborn
 -   Plotly
 
--------------------------------------
 
-## ⭐ Resume Impact Statement
-
-Built an end-to-end Retail Business Intelligence dashboard using Python
-and Streamlit, performing sales trend analysis, customer segmentation,
-and KPI-based business insights extraction.
